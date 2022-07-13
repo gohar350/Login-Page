@@ -1,0 +1,53 @@
+
+#grad {
+    height: 50em;
+    background-image: linear-gradient(to bottom right,darkblue, purple, red);
+    display: flex;
+  }
+.login{  
+        width: 20em;  
+        overflow: hidden;    
+        margin-left: 7em;  
+        padding: 10px;  
+        background:white;
+          
+}  
+.loginout{  
+    width: 35em;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 35em;  
+    padding: 80px;  
+    background:aqua;    
+      
+}  
+h2{  
+    text-align: left;  
+    color:aqua;  
+    text-shadow: black 1em; 
+}  
+
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: 1em ;
+    border-color: black;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: 20px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: 10px black;  
+    padding-left: 7px;  
+    color:white;  
+    background-color: aqua;
+  
+  
+}  
